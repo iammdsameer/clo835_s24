@@ -4,7 +4,7 @@
 
 | GitHub Repository | https://github.com/iammdsameer/clo835_s24/tree/master/project-2 |
 | --- | --- |
-| DockerHub Repository | https://hub.docker.com/repository/docker/itsmdsameerkhan/clo835-project-two/tags |
+| **DockerHub Repository** | **https://hub.docker.com/r/itsmdsameerkhan/clo835-project-two/tags** |
 
 ### **Project Overview**
 
